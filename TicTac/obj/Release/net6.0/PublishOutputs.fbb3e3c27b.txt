@@ -1,0 +1,7 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.deps.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.runtimeconfig.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.exe
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.dll
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.deps.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.runtimeconfig.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\PubTmp\Out\TicTac.pdb

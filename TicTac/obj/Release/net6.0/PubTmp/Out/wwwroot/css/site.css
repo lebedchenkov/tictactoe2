@@ -1,0 +1,133 @@
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: cadetblue;
+    border-color: black;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: cadetblue;
+    border-color: black;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #000000;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #000000;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.ttbtn {
+    border: solid;
+    border-width: 3px;
+    width: 100px;
+    height: 100px;
+    font-size: 70px;
+    text-align: center;
+}
+
+/**/
+.wrap{
+    display:flex;
+    align-self: center;
+}
+
+.area{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.cssfield {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    font-family: 'Anonymous Pro', sans-serif;
+    border: 1px solid #8d8cdf;
+    background-color: hotpink;
+    color: white;
+}
+
+.result {
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #6a73b6;
+}
+
+
+
+.btn-game {
+    border: none;
+    color: #eee9e9;
+    background-color: hotpink;
+    height: 60px;
+    transition: 0.3 linear;
+}
+    .btn-game:hover {
+        background-color: hotpink;
+        color: #eee9e9;
+    }

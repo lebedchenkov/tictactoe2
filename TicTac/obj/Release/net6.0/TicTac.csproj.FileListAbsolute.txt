@@ -1,0 +1,52 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\appsettings.Development.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\appsettings.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.staticwebassets.runtime.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.deps.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.runtimeconfig.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\bin\Release\net6.0\TicTac.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.csproj.AssemblyReference.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.AssemblyInfoInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.AssemblyInfo.cs
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.MvcApplicationPartsAssemblyInfo.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.RazorAssemblyInfo.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.RazorAssemblyInfo.cs
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\staticwebassets.build.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\staticwebassets.development.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\scopedcss\bundle\TicTac.styles.css
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\scopedcss\projectbundle\TicTac.bundle.scp.css
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\refint\TicTac.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\TicTac.genruntimeconfig.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\Task3\TicTac\TicTac\obj\Release\net6.0\ref\TicTac.dll
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\appsettings.json
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.exe
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.deps.json
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.runtimeconfig.json
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.dll
+C:\Users\Asus\Desktop\TicTac\TicTac\bin\Release\net6.0\TicTac.pdb
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.AssemblyInfo.cs
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\scopedcss\bundle\TicTac.styles.css
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\scopedcss\projectbundle\TicTac.bundle.scp.css
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.dll
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\refint\TicTac.dll
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.pdb
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\TicTac.genruntimeconfig.cache
+C:\Users\Asus\Desktop\TicTac\TicTac\obj\Release\net6.0\ref\TicTac.dll
